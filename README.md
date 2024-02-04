@@ -1,8 +1,4 @@
-# python_api_challenge
-
-Instructions
-
-This activity is broken down into two deliverables, WeatherPy and VacationPy.
+Introduction
 
 Part 1: WeatherPy
 
